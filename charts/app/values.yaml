@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: SergeyMedzhidov/django-pg:latest
+  repository: talyalev/django-pg:latest
   pullPolicy: IfNotPresent
 
 env:
